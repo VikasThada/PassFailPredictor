@@ -1,1 +1,1 @@
-# Pass Fail Predictor Streamlit abd Heroku
+# Pass Fail Predictor Streamlit and Deployment on Heroku
